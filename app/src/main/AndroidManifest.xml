@@ -17,7 +17,6 @@
     <uses-permission android:name="android.permission.INTERNET" />
     <!-- android 9.0上使用前台服务，需要添加权限 -->
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-/*55*/
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
 
 
